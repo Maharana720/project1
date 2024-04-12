@@ -1,2 +1,2 @@
 # project1
-This is a DEMO for practice Message.
+This is a DEMO for practice
